@@ -1,2 +1,2 @@
 # MemoryGame
- Javascript Mmeory Card Game 
+ Javascript Memory Card Game 
